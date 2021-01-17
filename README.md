@@ -22,7 +22,7 @@ Simple initial model of a back-end structure with SOLID principles.
 
 **Clone the project and access the folder**
 ```bash
-$ git clone https://github.com/marchetti2/justSave.git && cd justSave
+$ git clone https://github.com/marchetti2/templateSOLID.git && cd templateSOLID
 ```
 
 **Install the dependencies**
@@ -35,5 +35,5 @@ $ yarn dev:server
 ```
 **Well done, project is started!**
 
-##  License
+<h2 id="license">License</h2>
 This is a [RocketSeat](https://rocketseat.com.br) GoStack course project(old journey).
