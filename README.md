@@ -1,4 +1,6 @@
 
+<h2>About</h2>
+
 Simple initial model of a back-end structure with SOLID principles.
 
 <p align="center">
