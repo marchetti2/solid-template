@@ -24,7 +24,7 @@ Simple initial model of a back-end structure with SOLID principles.
 
 **Clone the project and access the folder**
 ```bash
-$ git clone https://github.com/marchetti2/templateSOLID.git && cd templateSOLID
+$ git clone https://github.com/marchetti2/solid-template.git && cd solid-template
 ```
 
 **Install the dependencies**
